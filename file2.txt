@@ -1,3 +1,4 @@
 first line in file2
 second line
 third line
+fourth line
